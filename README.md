@@ -1,3 +1,5 @@
+Moved to https://github.com/3scale-labs/porta-dev-tools and obsoleted by https://github.com/3scale-labs/porta-dev-tools/pull/24
+
 # Porxy
 Porxy is a porksy proxy of [porta](https://github.com/3scale/porta), a shitty solution to mediate the commnunication between [3scale/APIcast](https://github.com/3scale/APIcast), running in a docker, and [3scale/porta](https://github.com/3scale/porta), running in local environment.
 
